@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Agent Evaluator"
+  short_description: "Score coding-agent deliverables and analyze execution traces"
+  default_prompt: "Use $coding-agent-evaluator to score this task from its original prompt, final artifact, and optional agent trace."
